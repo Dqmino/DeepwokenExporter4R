@@ -1,0 +1,7 @@
+[package]
+name = "DeepwokenExporter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies.curl]
+git = "https://github.com/carllerche/curl-rust"
