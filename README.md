@@ -1,5 +1,10 @@
 Transfers deepwoken ingame exports to deepwoken.co builder links, made in Rust. 
 
+# Is this safe?
+I can tell you it is, but just check for yourself, this project is open source which means you can look at the code and determine whether it's safe or not.
+
+# Download
+Click [this](https://github.com/Dqmino/DeepwokenExprter4R/releases/tag/1.0) or go to the releases tab, then download the .exe
 
 # Usage:
 
