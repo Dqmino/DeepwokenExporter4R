@@ -9,5 +9,6 @@ Click [this](https://github.com/Dqmino/DeepwokenExprter4R/releases/tag/1.0) or g
 # Usage:
 
 1. Copy the ingame export text (Click tab while ingame, then click the button in the bottom right of the attributs menu) and MAKE SURE you copied all of it.
-2. Paste it into the command line
-3. Done!
+2. Paste it into a text file
+3. Write the file's name in the app (the full path)
+4. Done!
