@@ -1,4 +1,3 @@
-extern crate curl;
 use crate::character_info::CharacterInfo;
 use std::fs::File;
 use std::io;
@@ -16,8 +15,8 @@ fn main() {
     let mut file_name = String::new();
     io::stdin().read_line(&mut file_name).expect("Invalid file path.");
 
-    File::open(file_name)
-        .unwrap()
+    File::open(file_name.trim())
+        .expect("Incorrect file path.")
         .read_to_string(&mut text)
         .unwrap();
 
